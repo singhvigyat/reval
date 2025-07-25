@@ -64,8 +64,8 @@ A modern, student-friendly web application that streamlines the **exam re-evalua
 
 ## 📸 Screenshots
 
-![Student Dashboard](admin/student-dashboard.png)
-![Admin Panel](admin/admin-panel.png)
+![Student Dashboard](assets/student-dashboard.png)
+![Admin Panel](assets/admin-panel.png)
 
 ---
 
