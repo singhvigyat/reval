@@ -40,12 +40,6 @@ app.get('/', (req, res) => {
 })
 
 
-app.get('/ping', isLoggedIn, (req, res) => {
-    console.log(req.body);
-    console.log(req.cookies);
-    return res.json({ message: 'pong' });
-})
-
 // app.post('/photo', uploader.single('incomingFile'), async (req,res)=>{
 //     try{
 //         if(!req.file){
