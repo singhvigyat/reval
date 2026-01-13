@@ -79,6 +79,7 @@
 
 ---
 
+<a id="-tech-stack"></a>
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -148,6 +149,7 @@
 
 ---
 
+<a id="-installation--setup"></a>
 ## ⚙️ Installation & Setup
 
 <div align="center">
@@ -185,7 +187,7 @@
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/singhvigyat/re-evaluation-portal.git
+git clone https://github.com/singhvigyat/reval.git
 cd re-evaluation-portal
 
 # 2. Install backend dependencies
@@ -217,6 +219,7 @@ npm run dev
 
 ---
 
+<a id="-security"></a>
 ## 🛡️ Security
 
 <div align="center">
@@ -268,6 +271,7 @@ Session or token-based authentication implemented
 
 ---
 
+<a id="-contributing"></a>
 ## 🙋‍♂️ Contributing
 
 <div align="center">
@@ -326,20 +330,6 @@ Push and create a Pull Request
 - 👥 Feedback from real students and teachers helped shape the UX
 
 ---
-
-## 🔗 Live Demo
-
-<div align="center">
-
-### 🌐 **Try It Live**
-
-[![View Deployed App](https://img.shields.io/badge/👉%20View%20Deployed%20App-Visit%20Now-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://currenly-not-available.com)
-
-</div>
-
----
-
-<div align="center">
 
 ### 📞 **Connect With Us**
 
