@@ -317,7 +317,7 @@ Remember: Always maintain a professional tone and direct users to support (+91 8
 adminRouter.post("/chat", async (req, res) => {
   try {
     const { default: Groq } = await import("groq-sdk");
-    const groq = new Groq({ apiKey: "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" });
+    const groq = new Groq({ apiKey: process.env.GROQ_API_KEY });
 
     const { messages } = req.body;
     const setupMessages = [
